@@ -1,7 +1,7 @@
 # Shortcutter
 A small Python "Video Editor" that lets you perform certain everyday tasks on videos, like shortcuts!
 
-# Feautures
+# FEATURES
 1: Turn a videos volume to 0 in less than 20 seconds and without going on skummy sites online
 2: Bass Boost Videos
 3: Make it 2x faster or 0,5x slower
